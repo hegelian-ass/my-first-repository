@@ -1,5 +1,5 @@
 # my-first-repository
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Karan Pandita!
 
 I'm a **19-year-old student** pursuing **dual degrees**:
 - 🎓 **B.Tech in Robotics and Automation** from **Dr. D.Y. Patil College of Engineering, Akurdi (DYPCOE)**
