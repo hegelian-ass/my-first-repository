@@ -9,7 +9,7 @@ I'm a **19-year-old student** pursuing **dual degrees**:
 Passionate about blending engineering with emerging technologies and real-world problem-solving. I'm especially interested in:
 
 - 🔗 **Blockchain Technology**
-- ⚖️ **Interplay of Law and Engineering**
+- ⚖️ **Intellectual Propoerty Law**
 - 📊 **Data Science & Analytics**
 - 🌐 **Solana Web3 Development**
 - 🤖 **Automation & Robotics**
