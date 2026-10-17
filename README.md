@@ -61,6 +61,18 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
+### 🧠 Natural Language Processing (NLP)
+
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Text Processing](https://img.shields.io/badge/Text_Processing-008080?style=for-the-badge)
+![Text Summarization](https://img.shields.io/badge/Text_Summarization-7952B3?style=for-the-badge)
+![YouTube Transcript](https://img.shields.io/badge/YouTube_Transcript-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Sumy](https://img.shields.io/badge/Sumy-4B8BBE?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+
 ---
 
 ## 📈 GitHub Stats
