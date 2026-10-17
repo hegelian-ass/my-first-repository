@@ -71,7 +71,11 @@
 ![YouTube Transcript](https://img.shields.io/badge/YouTube_Transcript-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Sumy](https://img.shields.io/badge/Sumy-4B8BBE?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+### 🕸️ Web Scraping & Data Extraction
 
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YouTube Transcript API](https://img.shields.io/badge/YouTube_Transcript_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Data Extraction](https://img.shields.io/badge/
 
 ---
 
